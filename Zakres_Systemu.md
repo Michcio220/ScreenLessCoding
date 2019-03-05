@@ -24,9 +24,10 @@ System umożliwiającego naukę programowania dla dzieci bez użycia ekranów.Ca
 | Aktor             | Cel |
 |-------------------|-----|
 | Dziecko        | zaprogramowania robota do wykonywania pewnej czynności ciagle   |
-|                | nauka podstaw pogramowania                                       |
-|                |                                                               |
+|                | nauka podstaw pogramowania                                      |
+|                | zaprogramani przjescia przez robota jakiegoś pomieszczenia      |
 | Osoba Nadzorująca | pomoc w obsłudze planszy i modułu wykonawczego    |
+|                   | nadzór by dzieci nie zepsuły planszy etc. |
 
 
 ### Słownik projektowy:

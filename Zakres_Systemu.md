@@ -12,7 +12,6 @@ System umożliwiającego naukę programowania dla dzieci bez użycia ekranów.Ca
 | Użytkownik        |   osoba w wieku od 2 do 5+ lat  |
 | Administrator     | osoba odpowidzialna za prawidłowe działania serwera     |
 | Osoba Nadzorująca | osoba odpowiedzialna za pomoc/nadzór w obsłudze systemu     |
-|
 
 ### Aktor-Cel:
 | Aktor             | Cel |
@@ -21,7 +20,6 @@ System umożliwiającego naukę programowania dla dzieci bez użycia ekranów.Ca
 |                   |                                        |
 | Administrator     | nadzorowanie systemu, naprawa zawiszeń w systemie    |
 | Osoba Nadzorująca | pomoc w obsłudze planszy i modułu wykonawczego    |
-|                   |     |
 
 
 ### Słownik projektowy:
@@ -33,13 +31,9 @@ System umożliwiającego naukę programowania dla dzieci bez użycia ekranów.Ca
 | Plansza           |   narzędzie do pisania programów, oparte na prostych drewnianych klockach        |
 | Moduł Wykonawczy  |  dowolne urządzenie zdolne odczytać zestaw instrukcji pochodzący z serwera.         |
 | Serwer            | komunikujący się z Planszą, pozwalający na przekształcenie układu klocków na zestaw instrukcji. Wystawia bezprzewodowo REST API dla modułów        wykonawczych          |
-|  Klocki               | drewniane klocki służace do przekazywania instuckji serwer-moduł          |
-|                       |            |   
+|  Klocki               | drewniane klocki służace do przekazywania instuckji serwer-moduł          | 
 
 ### Wymagania niefunkcjonalne:
 
 * Plansza bedzie mogła rozpoznać typ klocka to rezystorze 
-* Moduł wykonawczy bedzie mogł wykonywać bardzo skop
-* 
-* 
-* 
+* Moduł wykonawczy bedzie mogł wykonywać bardzo skop 

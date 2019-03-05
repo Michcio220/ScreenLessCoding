@@ -17,7 +17,6 @@ System umożliwiającego naukę programowania dla dzieci bez użycia ekranów.Ca
 | Aktor             | Cel |
 |-------------------|-----|
 | Użytkownik        | nauczenie sie podstaw programowania    |
-|                   |                                        |
 | Administrator     | nadzorowanie systemu, naprawa zawiszeń w systemie    |
 | Osoba Nadzorująca | pomoc w obsłudze planszy i modułu wykonawczego    |
 

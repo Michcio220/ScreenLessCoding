@@ -26,9 +26,17 @@ wykonaniejakiegoś ciągu intrukcji przez robota.
 
 ### 3.2 Użytkownicy
 
-
+|         |   |
+|---------|---|
+| Opiekun |   |
+| Dziecko |   |
 
 ### 3.3 Cele użytkowników
+
+|         |   |
+|---------|---|
+| Opiekun |   |
+| Dziecko |   |
 
 ### 3.4 Charakterystyka osób mających wpływ na wymagania
 * Kadra dydaktyczna(klient)
@@ -56,6 +64,21 @@ wykonaniejakiegoś ciągu intrukcji przez robota.
 | Oczekiwane rezultaty | Wykonywanie powierzonych zadań na czas                                                            |
 
 ### 3.5 Charakterystyka użykowników
+* dziecko
+
+| Opis                 |   |
+|----------------------|---|
+| Typ                  |   |
+| Odpowiedzialnośc     |   |
+| Kryteria Zadowolenia |   |
+
+* opiekun
+
+| Opis                 |   |
+|----------------------|---|
+| Typ                  |   |
+| Odpowiedzialnośc     |   |
+| Kryteria Zadowolenia |   |
 
 ### 3.6 Kluczowe wymagania
 
@@ -64,5 +87,6 @@ wykonaniejakiegoś ciągu intrukcji przez robota.
 ## 4 Funkcje Programu
 
 ## 5 Założenia oraz zależności
+Wykonanie takiego systemu
 
 ## 6 Korzyści klienta - zamawiającego system

@@ -3,26 +3,39 @@
 M.Malinowski, 
 
 ## 1 Wstęp
-Ninejszy dokument przedstawia projekt aplikacji, która za pomocą łatwych do obsługi narzędzi
+Ninejszy dokument przedstawia projekt aplikacji, która za pomocą prostych do obsługi narzędzi
 oferuje łatwą nauke podstaw programowania bez użycia ekranów dla młodych dzieci.
 
 ## 2 Miejsce na rynku 
 ### 2.1 Przedstawienie problemu
-  
-
+Myślenie analityczne i algorytmiczne to bardzo ważna umiejętność, którą
+należy rozwijać od najmłodszego. Niestety w przypadku większości
+dostępnych narzędzi, programowanie odbywa się na tablecie/komputerze,
+a to oznacza wiele godzin spędzonych przed ekranem. Może to być
+przeszkodą dla najmłodszych dzieci (2-5 lat). Stąd pomysł na stworzenie
+narzędzia nie wymagającego ekranu. 
 ### 2.2 Przedstawienie produktu
 System pozwoli młodym dzieciom nauke programowania.
 
 ### 2.3 Demografia rynku
-Na rynku jest prowa
+Koncepcja screenless coding rozwijana jest od kilku lat. Do
+najpopularniejszych narzędzi tego typu można zaliczyć:
+* Cubetto
+* Lego Coding Express
+* Doc Mówiący Robot Edukacyjny
+
+Ich podstawowym ograniczeniem jest mały zasób dostępnych instrukcji
+(często brak instrukcji warunkowych czy pętli) oraz bardzo trudna
+rozszerzalność – dane narzędzie nie jest kompatybilne z innymi, trudno
+jest łączyć je z innymi posiadanymi narzędziami.
 
 ## 3 Opis interesariuszy
 
 ### 3.1 Środowisko użytkownika
 
 System ma umożliwić nauke programowania dla młodego dziecka.System bedzie się składał z 
-planszy interaktywnej, na której za pomoća drewnianych klocków dziecko bedzię mogło zamprogramować
-wykonaniejakiegoś ciągu intrukcji przez robota.
+planszy interaktywnej, na której za pomocą drewnianych klocków dziecko bedzię mogło zamprogramować
+wykonanie jakiegoś ciągu intrukcji przez robota.Nie bedzie wymagane przez dziecko żadne wpasowywanie klockow.
 
 ### 3.2 Użytkownicy
 
@@ -82,7 +95,18 @@ wykonaniejakiegoś ciągu intrukcji przez robota.
 
 ### 3.6 Kluczowe wymagania
 
+| Wymaganie                                        | Prirytet | Problem | Obecne rozwiazanie | Proponowane Rozwiazanie |
+|---------------------------------------------------|----------|---------|--------------------|-------------------------|
+| Rozpoznywanie klockow                             | Średni   |         |                    |                         |
+| Przechodzenie labiryntu stworzonego przez dziecko | Średni   |         |                    |                         |
+|                                                   |          |         |                    |                         |
 ### 3.7 Alternatywy i konkurencja
+
+| Nazwa | Zalety | Wady |
+|-------|--------|------|
+|       |        |      |
+|       |        |      |
+|       |        |      |
 
 ## 4 Funkcje Programu
 

@@ -10,7 +10,7 @@ System umożliwiającego naukę programowania dla dzieci bez użycia ekranów.Ca
 ## Aktorzy głowni
 | Aktor             | Opis |
 |-------------------|------|
-| Dziecko        |   osoba w wieku od 2-5 lat  |
+| Dziecko           |   osoba w wieku od 2-5 lat  |
 | Osoba Nadzorująca | osoba odpowiedzialna za pomoc/nadzór w obsłudze systemu     |
 
 ## Aktorzy 
@@ -20,7 +20,7 @@ System umożliwiającego naukę programowania dla dzieci bez użycia ekranów.Ca
 |-------------------|-----|
 | Dziecko        | zaprogramowania robota do wykonywania pewnej czynności ciagle   |
 |                | nauka podstaw pogramowania                                      |
-|                | zaprogramani przjescia przez robota jakiegoś pomieszczenia      |
+|                | zaprogramowanie przjescia przez robota jakiegoś pomieszczenia      |
 | Osoba Nadzorująca | pomoc w obsłudze planszy i modułu wykonawczego    |
 |                   | nadzór by dzieci nie zepsuły planszy etc. |
 
@@ -38,8 +38,8 @@ System umożliwiającego naukę programowania dla dzieci bez użycia ekranów.Ca
 ### User-stories:
 1. Jako dziecko chce zaprogramować swojego robota by przeszedł stworzony przez ze mnie labirynt ponieważ znudził mnie już podany z robotem
 (Średni)
-2. Jako osoba nadzorujaca chce by system był bezpieczny w obsłudze przez moje dziecko ponieważ 
-4. Jako dziecko chce by robot mogł byc zaprogramowany do przejścia mojego pokoju aby
+2. Jako osoba nadzorujaca chce by system był bezpieczny w obsłudze przez moje dziecko ponieważ martiwę się o swoje dziecko
+4. Jako dziecko chce by robot mogł być zaprogramowany do przejścia mojego pokoju  
 5. Jako 
 6. Jako 
 

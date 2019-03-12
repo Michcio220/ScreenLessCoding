@@ -1,6 +1,6 @@
 # Zakres Systemu - Screenless Coding 2
 
-Wersja 1.0
+Wersja 1.1
 
 ### Ogólny opis:
 System umożliwiającego naukę programowania dla dzieci bez użycia ekranów.Cały system jest podzielony na trzy głowne cześci plansza,serwer i moduł wykonawczy.Plansza jest podłączona do serwera który przekazuje  instrukcje do modułu wykonawczego bedącego albo prostą gra lub robotem(np. robot Lego).Po ustawnieniu klocków na planszy dana instrukcja zostaje przekazana przez serwer do modułu wykonawczego , ktory nastepnie wykonuje dane instrukcje.Klocki są bezpieczne w użyciu przez małe dzieci, nie wymaga sie wpasowywania klocków  w jakis sposób przez dziecko.Kilka przykładowych instrukcji to "przejdż 10 kroków do przodu", "obróć sie", robienie jakieś czynności w petli.

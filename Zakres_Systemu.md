@@ -24,7 +24,7 @@ System umożliwiającego naukę programowania dla dzieci bez użycia ekranów.Ca
 |-------------------|-----|
 | Dziecko           | Nauka obchodzenia się z mechanizmami działania połączeń podczas układania klocków |
 |                   | Nauka obchodzenia się z mechanizmami działania samochodu/robota                   |
-|                   | Nauka programowania prostych instukcji, które                                                 |
+|                   | Nauka programowania prostych instukcji, które imituja linijki kodu                                               |
 | Osoba Nadzorująca | Pomoc w obsłudze planszy i modułu wykonawczego    |
 |                   | Nadzór by dzieci nie zepsuły planszy etc.         |
 |                   | Spędzenie miłych chwil z dzieckiem/podopiecznymi  |

@@ -19,7 +19,7 @@ System umożliwiającego naukę programowania dla dzieci bez użycia ekranów.Ca
 |                   |      |
 |                   |      |     
  
-### Aktor-Cel:
+### Tabela Aktor-Cel:
 | Aktor             | Cel |
 |-------------------|-----|
 | Dziecko           | Nauka obchodzenia się z mechanizmami działania połączeń podczas układania klocków |
@@ -29,6 +29,12 @@ System umożliwiającego naukę programowania dla dzieci bez użycia ekranów.Ca
 |                   | Nadzór by dzieci nie zepsuły planszy etc.         |
 |                   | Spędzenie miłych chwil z dzieckiem/podopiecznymi  |
 
+### Lista IN-OUT
+
+| Kategoria   | IN  | OUT |
+|-------------|-----|-----|
+| Przejście labiryntu            | Przejście labiryntu fizycznego          | Przejście labiryntu narysowanego na kartce |
+| Robot       |            | |
 
 ### Słownik projektowy:
 |                   | Znaczenie |

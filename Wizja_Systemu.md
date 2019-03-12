@@ -43,8 +43,9 @@ wykonanie jakiegoś ciągu intrukcji przez robota.Nie bedzie wymagane przez dzie
 |---------|---|
 | Opiekun | osoba zaznajomiona z instrukcją załączoną do urządzenia (w kontekście używania)    |
 |         | osoba zaznajomiona z podstawami obsługi urzadzenia                                 |
-|         | osoba spełniająca wymogi bycia opiekunem dziecka                                   |       
-| Dziecko |   |
+|         | osoba spełniająca wymogi bycia opiekunem dziecka                                   |
+|         | osoba zaznajomiona z podstawami BHP wymaganymi w instrukcji do obsługi urządzenia  |
+| Dziecko | dziecko w wieku 2-5 lat  |
 
 ### 3.3 Cele użytkowników
 

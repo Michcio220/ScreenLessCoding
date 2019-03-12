@@ -99,7 +99,7 @@ Bedzię można wykonać kilka instrukcji pod rząd
 
 ### 3.6 Kluczowe wymagania
 
-| Wymaganie                                        | Prirytet | Problem | Obecne rozwiazanie | Proponowane Rozwiazanie |
+| Wymaganie                                         | Priorytet | Problem | Obecne rozwiazanie | Proponowane Rozwiazanie |
 |---------------------------------------------------|----------|---------|--------------------|-------------------------|
 | Rozpoznywanie klockow                             | Średni   | Rozpoznywanie róznych typów klockow         |                    |                         |
 | Przechodzenie labiryntu stworzonego przez dziecko | Średni   | Rozpoznywanie przeszkód przez robota         | Przechodzenie labiryntu stworzonego przez twórców systemu                   | Zaimplementowanie rozpoznywania przeszkody i reguły przechodzenie labiryntu                        |

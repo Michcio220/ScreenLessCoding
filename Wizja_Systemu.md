@@ -83,27 +83,27 @@ Bedzię można wykonać kilka instrukcji pod rząd
 ### 3.5 Charakterystyka użykowników
 * dziecko
 
-| Opis                 |   |
+| Opis                 | dziecko w wieku 2-5lat  |
 |----------------------|---|
-| Typ                  |   |
-| Odpowiedzialnośc     |   |
-| Kryteria Zadowolenia |   |
+| Typ                  | dziecko korzystające z systemu  |
+| Odpowiedzialnośc     | - |
+| Kryteria Zadowolenia | Bezpieczne, ciekawe klocki i plansza, łatwe do obsługi   |
 
 * opiekun
 
-| Opis                 |   |
+| Opis                 | osoba nandzorująca dziecko   |
 |----------------------|---|
-| Typ                  |   |
-| Odpowiedzialnośc     |   |
-| Kryteria Zadowolenia |   |
+| Typ                  | osoba dorosła, rodzic, opiekun   |
+| Odpowiedzialnośc     | - |
+| Kryteria Zadowolenia | dziecko czerpie przyjemność z korzystania z systemu    |
 
 ### 3.6 Kluczowe wymagania
 
 | Wymaganie                                        | Prirytet | Problem | Obecne rozwiazanie | Proponowane Rozwiazanie |
 |---------------------------------------------------|----------|---------|--------------------|-------------------------|
-| Rozpoznywanie klockow                             | Średni   |         |                    |                         |
+| Rozpoznywanie klockow                             | Średni   | Rozpoznywanie róznych typów klockow         |                    |                         |
 | Przechodzenie labiryntu stworzonego przez dziecko | Średni   | Rozpoznywanie przeszkód przez robota         | Przechodzenie labiryntu stworzonego przez twórców systemu                   | Zaimplementowanie rozpoznywania przeszkody i reguły przechodzenie labiryntu                        |
-| Bezpiecze                                                  |          |         |                    |                         |
+|                                                  |          |         |                    |                         |
 ### 3.7 Alternatywy i konkurencja
 
 | Nazwa | Zalety | Wady |

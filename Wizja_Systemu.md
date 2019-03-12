@@ -115,4 +115,19 @@ wykonanie jakiegoś ciągu intrukcji przez robota.Nie bedzie wymagane przez dzie
 ## 5 Założenia oraz zależności
 Wykonanie takiego systemu
 
-## 6 Korzyści klienta - zamawiającego system
+## 6 Korzyści klienta - zamawiającego system	
+Klienta można podzielić na Dziecko i Opiekuna. 
+	
+Korzyści Dziecka:
+* Możliwość nauki podstaw programowania poprzez układanie klocków w proste instrukcje. 
+* Rozwijanie swojego umysłu.
+* Podejmowanie decyzji (w przypadku labiryntu).
+* Nauka obchodzenia się z mechanizmami działania samochodu/robota.
+* Nauka obchodzenia się z mechanizmami działania połączeń podczas układania klocków.
+		
+Korzyści dla Opiekuna: 
+* Możliwość nauki podstaw programowania. 
+* Możliwość nauki działania podstaw elektroniki. 
+* Spędzenie miłych chwil z dzieckiem/podopiecznymi. 
+		
+

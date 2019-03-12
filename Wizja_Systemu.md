@@ -15,7 +15,7 @@ a to oznacza wiele godzin spędzonych przed ekranem. Może to być
 przeszkodą dla najmłodszych dzieci (2-5 lat). Stąd pomysł na stworzenie
 narzędzia nie wymagającego ekranu. 
 ### 2.2 Przedstawienie produktu
-System pozwoli młodym dzieciom nauke programowania.
+System pozwoli młodym dzieciom nauke podstaw programowania.Bedzie to wykonywane za pomocą łatwej do obsługi przez dziecko planszy z klockami służącymi za sposób interakcji z planszą przez dziecko.Plansze bedzie można bezprzewodowo podłaczyć do robota, który bedzię w stanie wykonywać czynności zaprogramowane przez dziecko.Pomimo tego że plansza i klocki bedą "kid friendly" to obecnośc osoby nadzorującej będzie wskazana.
 
 ### 2.3 Demografia rynku
 Koncepcja screenless coding rozwijana jest od kilku lat. Do
@@ -36,6 +36,7 @@ jest łączyć je z innymi posiadanymi narzędziami.
 System ma umożliwić nauke programowania dla młodego dziecka.System będzie się składał z 
 planszy interaktywnej, na której za pomocą klocków dziecko bedzię mogło zamprogramować
 wykonanie jakiegoś ciągu intrukcji przez robota.Nie bedzie wymagane przez dziecko żadne wpasowywanie klockow.
+Bedzię można wykonać kilka instrukcji pod rząd
 
 ### 3.2 Użytkownicy
 
@@ -101,8 +102,8 @@ wykonanie jakiegoś ciągu intrukcji przez robota.Nie bedzie wymagane przez dzie
 | Wymaganie                                        | Prirytet | Problem | Obecne rozwiazanie | Proponowane Rozwiazanie |
 |---------------------------------------------------|----------|---------|--------------------|-------------------------|
 | Rozpoznywanie klockow                             | Średni   |         |                    |                         |
-| Przechodzenie labiryntu stworzonego przez dziecko | Średni   |         | Przechodzenie labiryntu stworzonego przez twórców systemu                   | Zaimplementowanie rozpoznywania przeszkody i reguły przechodzenie labiryntu                        |
-|                                                   |          |         |                    |                         |
+| Przechodzenie labiryntu stworzonego przez dziecko | Średni   | Rozpoznywanie przeszkód przez robota         | Przechodzenie labiryntu stworzonego przez twórców systemu                   | Zaimplementowanie rozpoznywania przeszkody i reguły przechodzenie labiryntu                        |
+| Bezpiecze                                                  |          |         |                    |                         |
 ### 3.7 Alternatywy i konkurencja
 
 | Nazwa | Zalety | Wady |

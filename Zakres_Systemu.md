@@ -24,7 +24,7 @@ System umożliwiającego naukę programowania dla dzieci bez użycia ekranów.Ca
 |-------------------|-----|
 | Dziecko           | Nauka obchodzenia się z mechanizmami działania połączeń podczas układania klocków |
 |                   | Nauka obchodzenia się z mechanizmami działania samochodu/robota                   |
-|                   |                                                   |
+|                   | Nauka programowania prostych instukcji, które                                                 |
 | Osoba Nadzorująca | Pomoc w obsłudze planszy i modułu wykonawczego    |
 |                   | Nadzór by dzieci nie zepsuły planszy etc.         |
 |                   | Spędzenie miłych chwil z dzieckiem/podopiecznymi  |
@@ -41,13 +41,12 @@ System umożliwiającego naukę programowania dla dzieci bez użycia ekranów.Ca
 | Klocki            |  klocki służace do przekazywania instuckji serwer-moduł          | 
 
 ### User-stories:
-1. Jako dziecko chcę zaprogramować swojego robota by przeszedł stworzony przez ze mnie labirynt ponieważ znudził mnie już podany z robotem.(Średni)
+1. Jako dziecko chcę zaprogramować swojego robota by przeszedł stworzony przez ze mnie labirynt ponieważ znudził mnie już podany.(Średni)
 2. Jako dziecko chcę by klocki były różnych kolorów ponieważ będą bardziej interesujące(Średni)
-3. Jako dziecko chcę móc kontrolować mojego robota niż podstawowy ponieważ nie lubie wyglądu podstawowego robota(Niski)
+3. Jako dziecko chcę móc kontrolować mojego robota ponieważ nie lubie wyglądu podstawowego robota(Niski)
 4. Jako osoba nadzorujaca chcę by system był bezpieczny w obsłudze przez dziecko ponieważ bezpieczęństwo dziecka jest najważniejsze(Wysoki)
 5. Jako osoba nadzorująca chcę by dziecko uważało nauke za pomocą urządzenia za przyjemne ponieważ uważam że dzieci uczą się
 lepiej jeśli sprawia to im przyjemność(Wysoki)
-6. Jako 
 
 ### Wymagania niefunkcjonalne:
 
@@ -56,4 +55,3 @@ lepiej jeśli sprawia to im przyjemność(Wysoki)
 * Możliwości zaprogramowania przez dziecko petli
 * Przejście labiryntu zaprojektowanego przez dziecko
 * Interaktywne klocki
-* 

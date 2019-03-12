@@ -1,10 +1,10 @@
 # Screenless Coding - Wizja Projektu
 
-M.Malinowski, 
+Autorzy:
+Patryk Dąbrowski, Michał Malinowski, Dominik Czerwiński, Mikołaj Herwart, Bartosz Kordylewski 
 
 ## 1 Wstęp
-Ninejszy dokument przedstawia projekt aplikacji, która za pomocą prostych do obsługi narzędzi
-oferuje łatwą nauke podstaw programowania bez użycia ekranów dla młodych dzieci.
+Niniejszy dokument przedstawia wizję projektu pod tytułem Screenless Coding, który jest narzędziem oferującą łatwą i szybką naukę podstaw programowania bez uzycia ekranów dla najmłodszych użytkowników.i.
 
 ## 2 Miejsce na rynku 
 ### 2.1 Przedstawienie problemu
@@ -33,15 +33,17 @@ jest łączyć je z innymi posiadanymi narzędziami.
 
 ### 3.1 Środowisko użytkownika
 
-System ma umożliwić nauke programowania dla młodego dziecka.System bedzie się składał z 
-planszy interaktywnej, na której za pomocą drewnianych klocków dziecko bedzię mogło zamprogramować
+System ma umożliwić nauke programowania dla młodego dziecka.System będzie się składał z 
+planszy interaktywnej, na której za pomocą klocków dziecko bedzię mogło zamprogramować
 wykonanie jakiegoś ciągu intrukcji przez robota.Nie bedzie wymagane przez dziecko żadne wpasowywanie klockow.
 
 ### 3.2 Użytkownicy
 
 |         |   |
 |---------|---|
-| Opiekun |   |
+| Opiekun | osoba zaznajomiona z instrukcją załączoną do urządzenia (w kontekście używania)    |
+|         | osoba zaznajomiona z podstawami obsługi urzadzenia                                 |
+|         | osoba spełniająca wymogi bycia opiekunem dziecka                                   |       
 | Dziecko |   |
 
 ### 3.3 Cele użytkowników
@@ -68,7 +70,7 @@ wykonanie jakiegoś ciągu intrukcji przez robota.Nie bedzie wymagane przez dzie
 
 |                      |                                                                                                   |
 |----------------------|---------------------------------------------------------------------------------------------------|
-| Reprezentanci        | Michał Malinowski,                                                                                |
+| Reprezentanci        | Patryk Dąbrowski, Michał Malinowski, Dominik Czerwiński, Mikołaj Herwart, Bartosz Kordylewski                                                                                |
 | Opis                 | Osoby tworzące projekt                                                                            |
 | Typ                  | Studenci Informatyki                                                                              |
 | Odpowiedzialność     | Prawidłowe wykonanie całego projektu                                                              |
@@ -98,7 +100,7 @@ wykonanie jakiegoś ciągu intrukcji przez robota.Nie bedzie wymagane przez dzie
 | Wymaganie                                        | Prirytet | Problem | Obecne rozwiazanie | Proponowane Rozwiazanie |
 |---------------------------------------------------|----------|---------|--------------------|-------------------------|
 | Rozpoznywanie klockow                             | Średni   |         |                    |                         |
-| Przechodzenie labiryntu stworzonego przez dziecko | Średni   |         |                    |                         |
+| Przechodzenie labiryntu stworzonego przez dziecko | Średni   |         | Przechodzenie labiryntu stworzonego przez twórców systemu                   | Zaimplementowanie rozpoznywania przeszkody i reguły przechodzenie labiryntu                        |
 |                                                   |          |         |                    |                         |
 ### 3.7 Alternatywy i konkurencja
 

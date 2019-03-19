@@ -56,29 +56,7 @@ Bedzię można wykonać kilka instrukcji pod rząd
 | Dziecko |   |
 
 ### 3.4 Charakterystyka osób mających wpływ na wymagania
-* Kadra dydaktyczna(klient)
-
-|                      |                                                                             |
-|----------------------|-----------------------------------------------------------------------------|
-| Reprezentant         | Patryk Żywica                                                               |
-| Opis                 | Osoba nadzorująca projekt                                                   |
-|                      | W razie potrzeby wspomaga grupę wiedzą i doświadczeniem                     |
-| Odpowiedzialność     | Odpowiada za dotrzymywanie terminów powstania kolejnych elementów projektów |
-| Kryteria Sukcesu     | Utrzymanie tempa pracy nad projektem                                        |
-| Zangażowanie         | Pokazuje techniki pomocne przy powstaniu projektu                           |
-| Oczekiwane rezultaty | Stworzenie dobrego projektu                                                 |
-
-* Grupa
-
-|                      |                                                                                                   |
-|----------------------|---------------------------------------------------------------------------------------------------|
-| Reprezentanci        | Patryk Dąbrowski, Michał Malinowski, Dominik Czerwiński, Mikołaj Herwart, Bartosz Kordylewski                                                                                |
-| Opis                 | Osoby tworzące projekt                                                                            |
-| Typ                  | Studenci Informatyki                                                                              |
-| Odpowiedzialność     | Prawidłowe wykonanie całego projektu                                                              |
-| Kryteria Sukcesu     | Poprawne wykonanie wszystkich elementów projektu przy aktywnej postawie wszystkich członków grupy |
-| Zangażowanie         | Silna chęć stworzenia dobrego projektu                                                            |
-| Oczekiwane rezultaty | Wykonywanie powierzonych zadań na czas                                                            |
+                                                                                                     |
 
 ### 3.5 Charakterystyka użykowników
 * dziecko

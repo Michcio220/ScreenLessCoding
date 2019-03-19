@@ -1,1 +1,1 @@
-
+# Model Biznesowy

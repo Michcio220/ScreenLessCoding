@@ -4,7 +4,10 @@ Autorzy:
 Patryk Dąbrowski, Michał Malinowski, Dominik Czerwiński, Mikołaj Herwart, Bartosz Kordylewski 
 
 ## 1 Wstęp
-Niniejszy dokument przedstawia wizję projektu pod tytułem Screenless Coding, który jest narzędziem oferującą łatwą i szybką naukę podstaw programowania bez uzycia ekranów dla najmłodszych użytkowników.i.
+Niniejszy dokument przedstawia wizję projektu pod tytułem Screenless Coding, który jest narzędziem oferującą łatwą i szybką naukę podstaw programowania bez uzycia ekranów dla najmłodszych użytkowników.
+
+## 2 Cel
+Celem projektu jest stworzenie nowego systemu umożliwiającego naukę podstaw programowania bez użycia  
 
 ## 2 Miejsce na rynku 
 ### 2.1 Przedstawienie problemu
@@ -17,17 +20,16 @@ narzędzia nie wymagającego ekranu.
 ### 2.2 Przedstawienie produktu
 System pozwoli młodym dzieciom nauke podstaw programowania.Bedzie to wykonywane za pomocą łatwej do obsługi przez dziecko planszy z klockami służącymi za sposób interakcji z planszą przez dziecko.Plansze bedzie można bezprzewodowo podłaczyć do robota, który bedzię w stanie wykonywać czynności zaprogramowane przez dziecko.Pomimo tego że plansza i klocki bedą "kid friendly" to obecnośc osoby nadzorującej będzie wskazana.
 
-### 2.3 Demografia rynku
-Koncepcja screenless coding rozwijana jest od kilku lat. Do
-najpopularniejszych narzędzi tego typu można zaliczyć:
-* Cubetto
-* Lego Coding Express
-* Doc Mówiący Robot Edukacyjny
+### 2.3 Alternatywy i konkurencja
 
-Ich podstawowym ograniczeniem jest mały zasób dostępnych instrukcji
-(często brak instrukcji warunkowych czy pętli) oraz bardzo trudna
-rozszerzalność – dane narzędzie nie jest kompatybilne z innymi, trudno
-jest łączyć je z innymi posiadanymi narzędziami.
+| Nazwa | Zalety | Wady |
+|-------|--------|------|
+| LOMO - The tangible coding game      |  Bezekranowy sposób nauki dzieci programowania wykorzystujacy zaplające się klocki do pokazania przejścia programu      | Klocki są bardzo małe, nie przystosowane do obsługi przez małe dzieci     |
+| Robot DOC by Clementoni
+      | Łatwe w użyciu przez dzieci       |      |
+| Matatalab Coding Set      | Nauka bezekranowa, używa klocków do przesyłania instrukcji,duża ilość klocków       |      |
+| Robot Turtles Coding Game by Think Fun |                                       |
+| Sphero Star Wars Enabled-droids |                                              |
 
 ## 3 Opis interesariuszy
 
@@ -54,14 +56,11 @@ Bedzię można wykonać kilka instrukcji pod rząd
 |---------|---|
 | Opiekun |   |
 | Dziecko |   |
-
-### 3.4 Charakterystyka osób mających wpływ na wymagania
-                                                                                                     |
-
+                                           |
 ### 3.5 Charakterystyka użykowników
 * dziecko
 
-| Opis                 | dziecko w wieku 2-5lat  |
+| Opis                 | dziecko w wieku 2-5+ lat  |
 |----------------------|---|
 | Typ                  | dziecko korzystające z systemu  |
 | Odpowiedzialnośc     | - |
@@ -69,7 +68,7 @@ Bedzię można wykonać kilka instrukcji pod rząd
 
 * opiekun
 
-| Opis                 | osoba nandzorująca dziecko   |
+| Opis                 | osoba nandzorująca dziecko, podstawowa wiedzia   |
 |----------------------|---|
 | Typ                  | osoba dorosła, rodzic, opiekun   |
 | Odpowiedzialnośc     | - |
@@ -79,21 +78,22 @@ Bedzię można wykonać kilka instrukcji pod rząd
 
 | Wymaganie                                         | Priorytet | Problem | Obecne rozwiazanie | Proponowane Rozwiazanie |
 |---------------------------------------------------|----------|---------|--------------------|-------------------------|
-| Rozpoznywanie klockow                             | Średni   | Rozpoznywanie róznych typów klockow         |                    |                         |
-| Przechodzenie labiryntu stworzonego przez dziecko | Średni   | Rozpoznywanie przeszkód przez robota         | Przechodzenie labiryntu stworzonego przez twórców systemu                   | Zaimplementowanie rozpoznywania przeszkody i reguły przechodzenie labiryntu                        |
-|                                                  |          |         |                    |                         |
-### 3.7 Alternatywy i konkurencja
-
-| Nazwa | Zalety | Wady |
-|-------|--------|------|
-|       |        |      |
-|       |        |      |
-|       |        |      |
-
-## 4 Funkcje Programu
+| Rozpoznywanie klockow                             | Średni | Rozpoznywanie róznych typów klockow |||
+| Przechodzenie labiryntu stworzonego przez dziecko | Średni | Rozpoznywanie przeszkód przez robota | Przechodzenie labiryntu stworzonego przez twórców systemu | Zaimplementowanie rozpoznywania przeszkody i reguły przechodzenie labiryntu |
+| Implementacja instrukcji "if"                     | Wysoki | | | |                       
+| Implementacja instrukcji "goto"                   | Wysoki | Zaprojektowanie klocka zdolnego na przesłanie sygnału "przejdż do lini 5" | | |
+| Kompatybilność systemu z innymi robotami na rynku | Niski  | | | |
 
 
 
-## 5 Założenia oraz zależności
-Wykonanie takiego systemu
+## 4 Opis Produktu
+Funkjonalności produktu:
+* tworzenie swoich własnych instrukcji z szerokiej gamy klocków
+* możliwośc 
+*
+*
+*
+
+## 5 Zakres i ograniczenia
+W pierwszej wersji systemu możliwe będzie zaprogramowanie robota by przeszedł jakąś trasę,
 

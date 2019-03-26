@@ -44,7 +44,7 @@ Dziecko nie musi posiadać żadnej wstępnej wiedzy o programowaniu.
 | Opiekun | osoba zaznajomiona z instrukcją załączoną do urządzenia (w kontekście używania)    |
 |         | osoba spełniająca wymogi bycia opiekunem dziecka                                   |
 | Dziecko | dziecko w wieku 2-5 lat  |
-|         |                          |
+
 
 ### 3.3 Cele użytkowników
 
@@ -56,7 +56,7 @@ Dziecko nie musi posiadać żadnej wstępnej wiedzy o programowaniu.
 | Dziecko | Nauka obchodzenia się z mechanizmami działania połączeń podczas układania klocków |
 |         | Nauka obchodzenia się z mechanizmami działania samochodu/robota |
 |         | Nauka programowania linijek kodu za pomoca ustawiania klocków na planszy |
-                                           |
+
 ### 3.5 Charakterystyka użykowników
 * dziecko
 

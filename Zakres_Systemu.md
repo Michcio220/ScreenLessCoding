@@ -11,14 +11,7 @@ System umożliwiającego naukę programowania dla dzieci bez użycia ekranów.Ca
 |-------------------|------|
 | Dziecko           | dziecko w wieku od 2-5 lat  |
 | Osoba Nadzorująca | osoba odpowiedzialna za pomoc/nadzór w obsłudze systemu     |
-|                   |                                                             |
 
-## Aktorzy wspomogajacy
-| Aktor             | Opis |
-|-------------------|------|
-|                   |      |
-|                   |      |     
- 
 ### Tabela Aktor-Cel:
 | Aktor             | Cel |
 |-------------------|-----|

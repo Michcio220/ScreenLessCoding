@@ -91,9 +91,6 @@ Funkcjonalności produktu:
 * możliwość zaprogramowania robota do wykonywania czynności w pętli(instrukcja "goto")()
 * możliwość przejścia robota przez labirynt
 * możliwość rozpoznania przez robota przeszkód
-* możliwość 
-* możliwość
-* możliwość
 
 ## 5 Zakres i ograniczenia
 W pierwszej wersji systemu możliwe będzie zaprogramowanie kilku linijek kodu za pomocą conajmniej 4-6 klocków.Każdy z klocków będzie posiadał namespace który pozwoli na jego rozpoznanie przez plansze.Robot będzie w stanie przejść prostą trasę wyznaczoną przez dziecko(np. przejście przez pewne pomieszczenie) lub labirynt(zaprojektowany przez dziecko)..Możliwe bedzie też zaprogramowanie  pętli "goto" lub instrukcji warunkowej "if".

@@ -41,7 +41,7 @@ Dziecko nie musi posiadać żadnej wstępnej wiedzy o programowaniu.
 ### 3.2 Użytkownicy
 
 | Użytkownik        | Krótki opis   |
-|---------|---|
+|---------|--------------------------|
 | Opiekun | osoba zaznajomiona z instrukcją załączoną do urządzenia (w kontekście używania)    |
 |         | osoba spełniająca wymogi bycia opiekunem dziecka                                   |
 | Dziecko | dziecko w wieku 2-5 lat  |
@@ -56,7 +56,7 @@ Dziecko nie musi posiadać żadnej wstępnej wiedzy o programowaniu.
 |         | Spędzenie miłych chwil z dzieckiem/podopiecznymi  |
 | Dziecko | Nauka obchodzenia się z mechanizmami działania połączeń podczas układania klocków |
 |         | Nauka obchodzenia się z mechanizmami działania samochodu/robota |
-|         | Nauka programowania prostych instukcji, które imituja linijki kodu |
+|         | Nauka programowania linijek kodu za pomoca ustawiania klocków na planszy |
                                            |
 ### 3.5 Charakterystyka użykowników
 * dziecko
@@ -83,17 +83,19 @@ Dziecko nie musi posiadać żadnej wstępnej wiedzy o programowaniu.
 | Przechodzenie labiryntu stworzonego przez dziecko | Średni | Rozpoznywanie przeszkód przez robota | 
 | Implementacja instrukcji "if"                     | Wysoki | Zaprojektowanie klocka zdolnego do przesłanie sygnału "jeśli coś jest prawdą to zrób" | 
 | Implementacja instrukcji "goto"                   | Wysoki | Zaprojektowanie klocka zdolnego na przesłanie sygnału "przejdż do lini 5" | 
-| Kompatybilność systemu z innymi robotami na rynku | Niski  | Możliwość podłączenia plaszny do innych robotów i obsługa ich za jej pomoća |
+| Kompatybilność systemu z innymi robotami na rynku | Niski  | Możliwość podłączenia plaszny do innych robotów i obsługa ich za jej pomocą |
 
 ## 4 Opis Produktu
 Funkjonalności produktu:
 * tworzenie swoich własnych instrukcji z szerokiej gamy klocków()
-* możliwość stworzenia za pomocą klocków instrukcji "goto" lub "if"(Mało systemów na rynku posiada tę funkcjonalność)
-* możliwość przejścia przez labirynt
+* możliwość stworzenia za pomocą klocków instrukcji warunkowej "if"(Mało systemów na rynku posiada tę funkcjonalność)
+* możliwość zaprogramowania robota do wykonywania czynności w pętli(instrukcja "goto")()
+* możliwość przejścia robota przez labirynt
 * możliwość rozpoznania przez robota przeszkód przed sobą
-* możliwość zaprogramowania robota
+* możliwość
+* możliwość
 * możliwość
 
 ## 5 Zakres i ograniczenia
-W pierwszej wersji systemu możliwe będzie zaprogramowanie kilku linijek kodu za pomocą conajmniej 4-6 klocków.Robot będzie w stanie przejść prostą trasę wyznaczoną przez dziecko(np. przejście przez pewne pomieszczenie) lub labirynt(zaprojektowany przez dziecko).Każdy z klocków będzie posiadał namespace który pozwoli na jego rozpoznanie przez plansze.
+W pierwszej wersji systemu możliwe będzie zaprogramowanie kilku linijek kodu za pomocą conajmniej 4-6 klocków.Robot będzie w stanie przejść prostą trasę wyznaczoną przez dziecko(np. przejście przez pewne pomieszczenie) lub labirynt(zaprojektowany przez dziecko).Każdy z klocków będzie posiadał namespace który pozwoli na jego rozpoznanie przez plansze.Możliwe bedzie też zaprogramowanie jednej z bardziej rozwinietej instrukcji(petla lub warunek).
 

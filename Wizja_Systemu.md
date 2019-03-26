@@ -85,7 +85,7 @@ Dziecko nie musi posiadać żadnej wstępnej wiedzy o programowaniu.
 | Kompatybilność systemu z innymi robotami na rynku | Niski  | Możliwość podłączenia plaszny do innych robotów i obsługa ich za jej pomocą |
 
 ## 4 Opis Produktu
-Funkjonalności produktu:
+Funkcjonalności produktu:
 * tworzenie swoich własnych instrukcji z szerokiej gamy klocków()
 * możliwość stworzenia za pomocą klocków instrukcji warunkowej "if"(Mało systemów na rynku posiada tę funkcjonalność)
 * możliwość zaprogramowania robota do wykonywania czynności w pętli(instrukcja "goto")()

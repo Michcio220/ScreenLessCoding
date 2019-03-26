@@ -1,4 +1,4 @@
-# Screenless Coding - Wizja Projektu
+# Screenless Coding 2- Wizja Projektu
 
 Autorzy:
 Patryk Dąbrowski, Michał Malinowski, Dominik Czerwiński, Mikołaj Herwart, Bartosz Kordylewski 
@@ -18,18 +18,16 @@ a to oznacza wiele godzin spędzonych przed ekranem. Może to być
 przeszkodą dla najmłodszych dzieci (2-5 lat). Stąd pomysł na stworzenie
 narzędzia nie wymagającego ekranu. 
 ### 2.2 Przedstawienie produktu
-System pozwoli młodym dzieciom nauke podstaw programowania.Bedzie to wykonywane za pomocą łatwej do obsługi przez dziecko planszy z klockami służącymi za sposób interakcji z planszą przez dziecko.Plansze bedzie można bezprzewodowo podłaczyć do robota, który bedzię w stanie wykonywać czynności zaprogramowane przez dziecko.Pomimo tego że plansza i klocki bedą "kid friendly" to obecnośc osoby nadzorującej będzie wskazana.
+System pozwoli młodym dzieciom nauke podstaw programowania.Bedzie to wykonywane za pomocą łatwej do obsługi przez dziecko planszy z klockami służącymi za sposób interakcji z planszą przez dziecko.Plansze bedzie można bezprzewodowo podłaczyć do robota, który bedzię w stanie wykonywać czynności zaprogramowane przez dziecko.Będzie możliwośc zaprogramowania instrukcji "goto" i "if".Robot bedzię też w stanie przejść labirynt 
 
 ### 2.3 Alternatywy i konkurencja
 
 | Nazwa | Zalety | Wady |
 |-------|--------|------|
-| LOMO - The tangible coding game      |  Bezekranowy sposób nauki dzieci programowania wykorzystujacy zaplające się klocki do pokazania przejścia programu      | Klocki są bardzo małe, nie przystosowane do obsługi przez małe dzieci     |
-| Robot DOC by Clementoni
-      | Łatwe w użyciu przez dzieci       |      |
-| Matatalab Coding Set      | Nauka bezekranowa, używa klocków do przesyłania instrukcji,duża ilość klocków       |      |
-| Robot Turtles Coding Game by Think Fun |                                       |
-| Sphero Star Wars Enabled-droids |                                              |
+| LOMO - The tangible coding game      |  Bezekranowy sposób nauki dzieci programowania wykorzystujacy zaplające się klocki do pokazania przejścia programu, łatwy w obsłudze,     | Klocki są bardzo małe, nie przystosowane do obsługi przez małe dzieci     |
+| Robot DOC by Clementoni | Łatwe w użyciu przez dzieci,robot rozpoznaje gdzie jest na planszy, gdzie są przeszkody etc.| Robot nie jest zbyt wytrzymały, robot nie rozpoznaje przeszkód poza planszą |
+| Matatalab Coding Set      | Nauka bezekranowa, używa klocków do przesyłania instrukcji,duża ilość klocków, robot potrafi podnosić różne przedmioty | Brak implmentacji instrukcji "if" i "goto"     |
+| Sphero Star Wars Enabled-droids | Robot kontrolowany przez smartfona,bezpieczny do użycia przez małe dzieci  | Zbyt wyskoa cena,nie pozwala na nauke ,tylko bardziej na obsługe robota za pomocą smartphona |
 
 ## 3 Opis interesariuszy
 
@@ -38,24 +36,27 @@ System pozwoli młodym dzieciom nauke podstaw programowania.Bedzie to wykonywane
 System ma umożliwić nauke programowania dla młodego dziecka.System będzie się składał z 
 planszy interaktywnej, na której za pomocą klocków dziecko bedzię mogło zamprogramować
 wykonanie jakiegoś ciągu intrukcji przez robota.Nie bedzie wymagane przez dziecko żadne wpasowywanie klockow.
-Bedzię można wykonać kilka instrukcji pod rząd
+Dziecko nie musi posiadać żadnej wstępnej wiedzy o programowaniu. 
 
 ### 3.2 Użytkownicy
 
-|         |   |
+| Użytkownik        | Krótki opis   |
 |---------|---|
 | Opiekun | osoba zaznajomiona z instrukcją załączoną do urządzenia (w kontekście używania)    |
-|         | osoba zaznajomiona z podstawami obsługi urzadzenia                                 |
 |         | osoba spełniająca wymogi bycia opiekunem dziecka                                   |
-|         | osoba zaznajomiona z podstawami BHP wymaganymi w instrukcji do obsługi urządzenia  |
 | Dziecko | dziecko w wieku 2-5 lat  |
+|         |                          |
 
 ### 3.3 Cele użytkowników
 
-|         |   |
+| Użytkownik        | Cel   |
 |---------|---|
-| Opiekun |   |
-| Dziecko |   |
+| Opiekun | Pomoc w obsłudze planszy i modułu wykonawczego    |
+|         | Nadzór by dzieci nie zepsuły planszy etc.         |
+|         | Spędzenie miłych chwil z dzieckiem/podopiecznymi  |
+| Dziecko | Nauka obchodzenia się z mechanizmami działania połączeń podczas układania klocków |
+|         | Nauka obchodzenia się z mechanizmami działania samochodu/robota |
+|         | Nauka programowania prostych instukcji, które imituja linijki kodu |
                                            |
 ### 3.5 Charakterystyka użykowników
 * dziecko
@@ -68,7 +69,7 @@ Bedzię można wykonać kilka instrukcji pod rząd
 
 * opiekun
 
-| Opis                 | osoba nandzorująca dziecko, podstawowa wiedzia   |
+| Opis                 | osoba nandzorująca dziecko   |
 |----------------------|---|
 | Typ                  | osoba dorosła, rodzic, opiekun   |
 | Odpowiedzialnośc     | - |
@@ -76,24 +77,23 @@ Bedzię można wykonać kilka instrukcji pod rząd
 
 ### 3.6 Kluczowe wymagania
 
-| Wymaganie                                         | Priorytet | Problem | Obecne rozwiazanie | Proponowane Rozwiazanie |
-|---------------------------------------------------|----------|---------|--------------------|-------------------------|
-| Rozpoznywanie klockow                             | Średni | Rozpoznywanie róznych typów klockow |||
-| Przechodzenie labiryntu stworzonego przez dziecko | Średni | Rozpoznywanie przeszkód przez robota | Przechodzenie labiryntu stworzonego przez twórców systemu | Zaimplementowanie rozpoznywania przeszkody i reguły przechodzenie labiryntu |
-| Implementacja instrukcji "if"                     | Wysoki | | | |                       
-| Implementacja instrukcji "goto"                   | Wysoki | Zaprojektowanie klocka zdolnego na przesłanie sygnału "przejdż do lini 5" | | |
-| Kompatybilność systemu z innymi robotami na rynku | Niski  | | | |
-
-
+| Wymaganie                                         | Priorytet | Problem | 
+|---------------------------------------------------|----------|---------
+| Rozpoznywanie klocków                             | Średni | Rozpoznywanie róznych typów klockow |
+| Przechodzenie labiryntu stworzonego przez dziecko | Średni | Rozpoznywanie przeszkód przez robota | 
+| Implementacja instrukcji "if"                     | Wysoki | Zaprojektowanie klocka zdolnego do przesłanie sygnału "jeśli coś jest prawdą to zrób" | 
+| Implementacja instrukcji "goto"                   | Wysoki | Zaprojektowanie klocka zdolnego na przesłanie sygnału "przejdż do lini 5" | 
+| Kompatybilność systemu z innymi robotami na rynku | Niski  | Możliwość podłączenia plaszny do innych robotów i obsługa ich za jej pomoća |
 
 ## 4 Opis Produktu
 Funkjonalności produktu:
-* tworzenie swoich własnych instrukcji z szerokiej gamy klocków
-* możliwośc 
-*
-*
-*
+* tworzenie swoich własnych instrukcji z szerokiej gamy klocków()
+* możliwość stworzenia za pomocą klocków instrukcji "goto" lub "if"(Mało systemów na rynku posiada tę funkcjonalność)
+* możliwość przejścia przez labirynt
+* możliwość rozpoznania przez robota przeszkód przed sobą
+* możliwość zaprogramowania robota
+* możliwość
 
 ## 5 Zakres i ograniczenia
-W pierwszej wersji systemu możliwe będzie zaprogramowanie robota by przeszedł jakąś trasę,
+W pierwszej wersji systemu możliwe będzie zaprogramowanie kilku linijek kodu za pomocą conajmniej 4-6 klocków.Robot będzie w stanie przejść prostą trasę wyznaczoną przez dziecko(np. przejście przez pewne pomieszczenie) lub labirynt(zaprojektowany przez dziecko).Każdy z klocków będzie posiadał namespace który pozwoli na jego rozpoznanie przez plansze.
 

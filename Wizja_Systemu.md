@@ -79,7 +79,7 @@ Dziecko nie musi posiadać żadnej wstępnej wiedzy o programowaniu.
 | Wymaganie                                         | Priorytet | Problem | 
 |---------------------------------------------------|----------|---------
 | Rozpoznywanie klocków                             | Średni | Rozpoznywanie róznych typów klockow |
-| Przechodzenie labiryntu stworzonego przez dziecko | Średni | Rozpoznywanie przeszkód przez robota | 
+| Przechodzenie labiryntu stworzonego przez dziecko | Niski | Rozpoznywanie przeszkód przez robota | 
 | Implementacja instrukcji "if"                     | Wysoki | Zaprojektowanie klocka zdolnego do przesłanie sygnału "jeśli coś jest prawdą to zrób" | 
 | Implementacja instrukcji "goto"                   | Wysoki | Zaprojektowanie klocka zdolnego na przesłanie sygnału "przejdż do linijki X" | 
 | Kompatybilność systemu z innymi robotami na rynku | Niski  | Możliwość podłączenia planszy do innych robotów i obsługa ich za jej pomocą |
@@ -93,5 +93,10 @@ Funkcjonalności produktu:
 * możliwość rozpoznania przez robota przeszkód
 
 ## 5 Zakres i ograniczenia
-W pierwszej wersji systemu możliwe będzie zaprogramowanie kilku linijek kodu za pomocą conajmniej 4-6 klocków.Każdy z klocków będzie posiadał namespace który pozwoli na jego rozpoznanie przez plansze.Robot będzie w stanie przejść prostą trasę wyznaczoną przez dziecko(np. przejście przez pewne pomieszczenie) lub labirynt(zaprojektowany przez dziecko)..Możliwe bedzie też zaprogramowanie  pętli "goto" lub instrukcji warunkowej "if".
+### 5.1 Zakres
+W pierwszej wersji systemu możliwe będzie zaprogramowanie kilku linijek kodu za pomocą paru klocków.Robot będzie w stanie przejść prostą trasę wyznaczoną przez dziecko(np. przejście przez pewne pomieszczenie).Możliwe bedzie też zaprogramowanie  pętli "goto" lub instrukcji warunkowej "if".
+
+### 5.2 Ograniczenia
+* W pierwszej wersji systemu robot może nie być w stanie rozpoznywać przeszkód(będzie się zatrzymywać jeśli zablokuje mu sie drogę)
+* Z powodu braku rozpoznywania przeszkód robot nie bedzie w stanie móc przechodzić labiryntu
 

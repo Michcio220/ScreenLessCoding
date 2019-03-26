@@ -6,10 +6,8 @@ Patryk Dąbrowski, Michał Malinowski, Dominik Czerwiński, Mikołaj Herwart, Ba
 ## 1 Wstęp
 Niniejszy dokument przedstawia wizję projektu pod tytułem Screenless Coding, który jest narzędziem oferującą łatwą i szybką naukę podstaw programowania bez uzycia ekranów dla najmłodszych użytkowników.
 
-## 2 Cel
-Celem projektu jest stworzenie nowego systemu umożliwiającego naukę podstaw programowania bez użycia  
-
 ## 2 Miejsce na rynku 
+
 ### 2.1 Przedstawienie problemu
 Myślenie analityczne i algorytmiczne to bardzo ważna umiejętność, którą
 należy rozwijać od najmłodszego. Niestety w przypadku większości
@@ -17,6 +15,7 @@ dostępnych narzędzi, programowanie odbywa się na tablecie/komputerze,
 a to oznacza wiele godzin spędzonych przed ekranem. Może to być
 przeszkodą dla najmłodszych dzieci (2-5 lat). Stąd pomysł na stworzenie
 narzędzia nie wymagającego ekranu. 
+
 ### 2.2 Przedstawienie produktu
 System pozwoli młodym dzieciom nauke podstaw programowania.Bedzie to wykonywane za pomocą łatwej do obsługi przez dziecko planszy z klockami służącymi za sposób interakcji z planszą przez dziecko.Plansze bedzie można bezprzewodowo podłaczyć do robota, który bedzię w stanie wykonywać czynności zaprogramowane przez dziecko.Będzie możliwośc zaprogramowania instrukcji "goto" i "if".Robot bedzię też w stanie przejść labirynt 
 
